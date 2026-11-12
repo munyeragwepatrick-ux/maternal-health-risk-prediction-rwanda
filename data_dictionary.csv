@@ -1,0 +1,12 @@
+Column,Data_Type,Description,Role
+Patient ID,int64,Add the correct meaning of each column after inspecting it.,Feature
+Name,object,Add the correct meaning of each column after inspecting it.,Feature
+Age,int64,Add the correct meaning of each column after inspecting it.,Feature
+Body Temperature(F) ,float64,Add the correct meaning of each column after inspecting it.,Feature
+Heart rate(bpm),int64,Add the correct meaning of each column after inspecting it.,Feature
+Systolic Blood Pressure(mm Hg),int64,Add the correct meaning of each column after inspecting it.,Feature
+Diastolic Blood Pressure(mm Hg),int64,Add the correct meaning of each column after inspecting it.,Feature
+BMI(kg/m 2),float64,Add the correct meaning of each column after inspecting it.,Feature
+Blood Glucose(HbA1c),int64,Add the correct meaning of each column after inspecting it.,Feature
+Blood Glucose(Fasting hour-mg/dl),float64,Add the correct meaning of each column after inspecting it.,Feature
+Status,object,Add the correct meaning of each column after inspecting it.,Feature
